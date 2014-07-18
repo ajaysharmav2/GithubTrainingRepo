@@ -5,3 +5,5 @@ New File additions
 Command : git checkout "Branch Name"
 
 New Changes
+
+New New Change for Feature 1 with MASTER for Seq
